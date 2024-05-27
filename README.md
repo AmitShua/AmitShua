@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AmitShua
-- 👀 I’m interested in the data world
-- 🌱 I’m currently learning data science, machine learning, NLP, vizualization
+- 👀 I’m interested in development and data world
+- 🌱 I’m currently learning data science, machine learning, NLP, vizualization, Python, C#, .NET
 - 💞️ I’m looking to collaborate on tha data world
 - 📫 How to reach me ...
 - 😄 Pronouns: Meach
